@@ -1,0 +1,6 @@
+CustomerID,FullName,Email,Country,SignupDate
+1,  anita rao ,anita@example.com,india,2024-03-15
+2,John Smith,john@example.com,Ireland,2024-04-02
+3,Maria Lopez,,spain,2024-05-20
+4,Li Wei,liwei@example.com,China,not-a-date
+5,Sam Doe,sam@example.com,,2024-06-11
